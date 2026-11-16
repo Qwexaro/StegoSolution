@@ -12,6 +12,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Stego.Domain\Stego.Domain.fsproj" />
     <ProjectReference Include="..\Stego.Application\Stego.Application.fsproj" />
+    <ProjectReference Include="..\Stego.Infrastructure\Stego.Infrastructure.fsproj" />
   </ItemGroup>
 
 </Project>
