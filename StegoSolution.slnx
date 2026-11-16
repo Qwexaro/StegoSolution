@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/src/">
+    <Project Path="src/Stego.Application/Stego.Application.fsproj" />
     <Project Path="src/Stego.Domain/Stego.Domain.fsproj" />
   </Folder>
 </Solution>
