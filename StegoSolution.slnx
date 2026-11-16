@@ -4,5 +4,6 @@
     <Project Path="src/Stego.Cli/Stego.Cli.fsproj" />
     <Project Path="src/Stego.Domain/Stego.Domain.fsproj" />
     <Project Path="src/Stego.Infrastructure/Stego.Infrastructure.fsproj" />
+    <Project Path="src/Stego.Tests/Stego.Tests.fsproj" />
   </Folder>
 </Solution>
